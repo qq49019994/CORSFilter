@@ -1,4 +1,4 @@
-package com.hoohui.meeting.app.filter;
+package com.gexin;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletResponse;
